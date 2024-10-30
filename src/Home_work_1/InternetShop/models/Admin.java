@@ -1,10 +1,10 @@
 package Home_work_1.InternetShop.models;
 
-public class AdminClient {
+public class Admin {
     private int id;
     private String name;
 
-    public AdminClient(int id, String name){
+    public Admin(int id, String name){
         this.id = id;
         this.name = name;
     }
