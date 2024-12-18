@@ -19,3 +19,9 @@
 - реализовать методы интерфейса.
 - код должен быть задокументирован на уровне класса и публичных методов (javadoc).
 
+                                                     РЕАЛИЗАЦИЯ
+  [Интерфейс(ТЫК)](/Aston/src/stage2/Home_work1/IntensiveList.java) - задокументированный IntensiveList
+  
+  [Динамический список(ТЫК)](/Aston/src/stage2/Home_work1/ArrayList_NameSurname.java) - реализация ArrayList
+  
+  [test(ТЫК)](/Aston/src/stage2/Home_work1/test.java) - пример реализации
