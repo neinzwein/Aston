@@ -1,10 +1,3 @@
-Задание 2.1. Подготовка к выполнению задания 4.
-    Cмотрим Борисова по Spring:
-    - https://www.youtube.com/watch?v=BmBr5diz8WA
-    - https://www.youtube.com/watch?v=cou_qomYLNU&t=497s
-    - https://www.youtube.com/watch?v=yy43NOreJG4
-    - https://www.youtube.com/watch?v=nwM7A4TwU3M
-
 Задание 2.2. Мини-Spring :)
     Общие требования:
     - обязательное наличие javadoc.
